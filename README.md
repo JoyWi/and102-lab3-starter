@@ -12,4 +12,5 @@ The stretch features will help develop this app into something closer to the NY 
   []The "Buy" button successfully opens the page on Amazon
 
 The Recording of Lab 03:
-<img src="https://i.ibb.co/k6qFXvg/TapGame.gif" alt="TapGame" border="0">
+
+<img src="https://i.ibb.co/sgFMgKH/NY-Times-Best-Seller.gif" alt="NY-Times-Best-Seller" border="0">
